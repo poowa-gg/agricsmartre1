@@ -1,0 +1,8 @@
+{
+  "name": "AgriSmart Connect",
+  "description": "A three-layer agricultural fintech platform providing farm intelligence, credit scoring, and cooperative networking for smallholder farmers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
