@@ -10,6 +10,9 @@ export default defineConfig(({ mode }) => {
       port: 3000,
       host: '0.0.0.0',
     },
+    preview: {
+      allowedHosts: ['agricsmartre1.onrender.com']
+    },
     plugins: [
       react(),
       tailwindcss(),
